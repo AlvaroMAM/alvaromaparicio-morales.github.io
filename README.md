@@ -1,3 +1,11 @@
+<nav>
+  <ul>
+    <li><a href="#">Publications</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#social">Social</a></li>
+  </ul>
+</nav>
+
 <p align="center">
   <img src="profile_photo.png" width="30%" alt="Profile photo">
 </p>
@@ -20,7 +28,7 @@ Link: [https://ieeexplore.ieee.org/document/10313627](https://ieeexplore.ieee.or
 
 Email: [amapamor@unex.es](amapamor@unex.es)
 
-## Redes Sociales
+## Social
 
 - [Twitter](https://twitter.com/AlvaroApaMor)
 - [LinkedIn](https://www.linkedin.com/in/alvaromapariciomorales/)
