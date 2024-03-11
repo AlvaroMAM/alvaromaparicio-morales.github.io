@@ -1,7 +1,10 @@
 <p align="center">
   <img src="profile_photo.png" width="30%" alt="Profile photo">
 </p>
-Researcher at the University of Extremadura. Currently involved in Quantum Computong, specifically in the development of Quantum Software Engineering.
+<p align="center">
+  Researcher at the University of Extremadura. Currently involved in Quantum Computing, specifically in the development of Quantum Software Engineering.
+</p>
+
 
 ## Publications
 
