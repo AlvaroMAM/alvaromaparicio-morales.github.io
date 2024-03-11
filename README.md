@@ -1,6 +1,6 @@
 Álvaro M. Aparicio-Morales
 <p align="center">
-  <img src="profile_photo_zipped.png" alt="Tu foto">
+  <img src="profile_photo_zipped.png" width="100" height="100" style="border-radius: 50%;" alt="Profile photo">
 </p>
 Researcher at the University of Extremadura. Currently involved in Quantum Computong, specifically in the development of Quantum Software Engineering.
 
