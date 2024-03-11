@@ -1,11 +1,3 @@
-<nav>
-  <ul>
-    <li><a href="#">Publications</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#social">Social</a></li>
-  </ul>
-</nav>
-
 <p align="center">
   <img src="profile_photo.png" width="30%" alt="Profile photo">
 </p>
